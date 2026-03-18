@@ -1,5 +1,5 @@
 server:
   port: 8081
 
-  custom:
-    message: Hello from config server
+custom:
+  message: Hello from config server
